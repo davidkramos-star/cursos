@@ -1,0 +1,58 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+  }
+  .butao{
+    padding: 20px;
+    align-items: center;
+  }
+  .saiba{
+      border: 1px solid;
+      border-color: #dd1818;
+      border-radius: 10px;
+      display: block;
+  }
+  .inscrever{
+  background-color: #dd1818;
+  color: antiquewhite;
+  border: 1px solid;
+  border-radius: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+  justify-content:center ;
+  }
+  .logo{
+  width: 100px;
+  height: 30px;
+  }
+  
+  nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 100%;
+  }
+  .projeto{
+   border: 1px solid;
+   border-color:#000000;
+  border-radius: 3px;
+  width: 250px;
+  }
+  
+  hr{
+    width: 900px;
+  }
+  
+  header{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+  }
+
+  .desenvolvimento{
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    display: flex;
+  }
